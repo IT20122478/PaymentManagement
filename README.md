@@ -1,8 +1,8 @@
 # IT3030 Programming Applications and Frameworks 
 Assignment 2022 S1 – Preparing for the practical test 
 
-# ElectroGrid
-ElectroGrid (EG) is the company who maintains the power grid of the country. Our task was to develop a highly scalable online platform for the EG users. So, in this assignment we identified four different functions to build web services such as Customer Service, Employee Service, Payment Service, and Power Details Service. 
+# About project?
+ElectroGrid (EG) is the company who maintains the power grid of the country. My task was to develop rich front-end for the web service which I was already created Payment Management.
 
 # Aim
 Developing a front-end is the aim of the project.
