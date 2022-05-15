@@ -12,6 +12,6 @@ Select the RESTful web service you developed for the group assignment.
 Develop a rich web-based application using the Form and Grid pattern to perform CRUD
 operations on your selected resource by communicating with your RESTful web-service.
 
-#  Thechnology Stack
+#  Technology Stack
 View - HTML, CSS, Bootstrap, Form and Grid UI design pattern<br/>
 Client Components - jQuery, Ajax for DC
